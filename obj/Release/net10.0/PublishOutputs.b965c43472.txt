@@ -1,0 +1,5 @@
+C:\Users\J\Desktop\New folder\Nvida DX shader removal.exe
+C:\Users\J\Desktop\New folder\Nvida DX shader removal.dll
+C:\Users\J\Desktop\New folder\Nvida DX shader removal.deps.json
+C:\Users\J\Desktop\New folder\Nvida DX shader removal.runtimeconfig.json
+C:\Users\J\Desktop\New folder\Nvida DX shader removal.pdb

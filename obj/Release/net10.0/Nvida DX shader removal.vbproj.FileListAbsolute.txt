@@ -1,0 +1,14 @@
+C:\Users\J\source\repos\Nvida DX shader removal\bin\Release\net10.0\Nvida DX shader removal.exe
+C:\Users\J\source\repos\Nvida DX shader removal\bin\Release\net10.0\Nvida DX shader removal.deps.json
+C:\Users\J\source\repos\Nvida DX shader removal\bin\Release\net10.0\Nvida DX shader removal.runtimeconfig.json
+C:\Users\J\source\repos\Nvida DX shader removal\bin\Release\net10.0\Nvida DX shader removal.dll
+C:\Users\J\source\repos\Nvida DX shader removal\bin\Release\net10.0\Nvida DX shader removal.pdb
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.AssemblyInfo.vb
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.vbproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.dll
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\refint\Nvida DX shader removal.dll
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.pdb
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\Nvida DX shader removal.genruntimeconfig.cache
+C:\Users\J\source\repos\Nvida DX shader removal\obj\Release\net10.0\ref\Nvida DX shader removal.dll

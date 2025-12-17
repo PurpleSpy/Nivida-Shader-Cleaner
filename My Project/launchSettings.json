@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nvida DX shader removal": {
+      "commandName": "Project",
+      "commandLineArgs": "-pop"
+    }
+  }
+}
